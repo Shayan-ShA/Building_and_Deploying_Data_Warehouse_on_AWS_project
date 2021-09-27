@@ -112,3 +112,8 @@ Project Template include four files:
 - Fill in dwh.cfg with your AWS and redshift data warehouse information   
 - Run create_tables.py
 - Run etl.py
+
+
+![Certificate.png](https://github.com/Shayan-ShA/Building_and_Deploying_Data_Warehouse_on_AWS_project/blob/main/Certificate.png)
+
+
